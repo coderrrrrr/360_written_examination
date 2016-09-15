@@ -1,0 +1,10 @@
+<table border="1">
+  <tr>
+    <th>Time</th>
+    <th>File</th>
+  </tr>
+  <tr>
+    <td><% Time %></td>
+    <td><% File %></td>
+  </tr>
+</table>
